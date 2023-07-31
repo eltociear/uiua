@@ -1,6 +1,5 @@
 .vscode
 /target
-/docs
 site/dist
 
 *.wav
